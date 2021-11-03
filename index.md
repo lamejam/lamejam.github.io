@@ -72,7 +72,7 @@ community, learn something new, and have fun making games.
 # How do I Join or Help Out?
 
 If you would like to sign up for Lame Jam and/or get email updates as the event
-gets closer, [sign up here!](https://forms.gle/WHWp9KPvwWpAd9V48). Detailed schedules, locations, and speaker
+gets closer, [sign up here!](https://forms.gle/WHWp9KPvwWpAd9V48) Detailed schedules, locations, and speaker
 lists will be announced as the date approaches.
 
 During LameJam, mentors will be available on the Discord server to help jammers with a variety of disciplines. If you have experience with making games and would like to help out by mentoring, [sign up here!](https://forms.gle/fnAADqycWzNRkHVb6)
