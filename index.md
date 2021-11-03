@@ -55,7 +55,7 @@ development talks from local university instructors, students, and industry
 professionals.
 
 LameJam lasts three days: Friday November 26th - Sunday November 28th. On Friday we will be
-holding a workshop on how to use the Godot Game Engine, a free, compact, and
+holding a workshop on game engines, including how to use the Godot Game Engine --- a free, compact, and
 open-source game engine for 2D and 3D games. We will discuss game design and
 some tips to get you started on your first game jam. This is also when the theme
 will be revealed!
@@ -72,15 +72,5 @@ community, learn something new, and have fun making games.
 # How do I Join or Help Out?
 
 If you would like to sign up for Lame Jam and/or get email updates as the event
-gets closer, [sign up here!](#). Detailed schedules, locations, and speaker
+gets closer, [sign up here!](https://forms.gle/WHWp9KPvwWpAd9V48). Detailed schedules, locations, and speaker
 lists will be announced as the date approaches.
-
-If you would like to help volunteer, we'd love to have your help! We are seeking
-in-person and remote volunteers to help with coordination and mentoring. If you
-would be interested in either helping to run the event or mentoring new
-developers, please [inquire here.](#)
-
-If you are an industry professional interested in sponsorship, mentoring, or
-speaking about anything relating to games, game development, or the local game
-development community, [let us know!](#) We would love to promote local game
-development efforts and hear from you.
