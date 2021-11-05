@@ -46,6 +46,10 @@ On the last day of the game jam, games are shown to the other jammers and
 everybody breathes a sigh of relief and swaps stories of the weekend while
 playing each other's games.
 
+For more information on game jams, check out our [Itch.io page](https://itch.io/jam/lamejam-2021). 
+We encourage you to sign up and join the event ahead of time! It helps us
+get a better understanding of how many people to expect.
+
 # What is LameJam?
 
 We think making games is great, and should be accessible to anybody interested.
