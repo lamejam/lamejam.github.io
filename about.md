@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About LameJam
 tagline: Learn about LameJam
 permalink: /about.html
 ref: about
