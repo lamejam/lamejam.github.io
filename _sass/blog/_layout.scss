@@ -118,6 +118,8 @@
 
   > li {
     margin-bottom: $spacing-unit * 1.5;
+    background-color: #253140;
+    padding: 10px;
   }
 
   > li > h2 {
@@ -128,6 +130,7 @@
   > li > p {
     margin-top: 0rem;
   }  
+ 
 }
 
 @include media-query($on-palm) {
