@@ -120,6 +120,7 @@
     margin-bottom: $spacing-unit * 1.5;
     background-color: #253140;
     padding: 10px;
+    list-style-type: none;
   }
 
   > li > h2 {
@@ -131,6 +132,9 @@
     margin-top: 0rem;
   }  
  
+  > li > a.post-continue {
+    color: #c4a640; 
+  }
 }
 
 @include media-query($on-palm) {
