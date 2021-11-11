@@ -3,7 +3,7 @@ layout: page
 title: About Jams
 tagline: What is a game jam?
 permalink: /aboutJams.html
-ref: about
+ref: What is a Jam?
 order: 0
 ---
 
