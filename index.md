@@ -46,9 +46,7 @@ On the last day of the game jam, games are shown to the other jammers and
 everybody breathes a sigh of relief and swaps stories of the weekend while
 playing each other's games.
 
-For more information on game jams, check out our [Itch.io page](https://itch.io/jam/lamejam-2021). 
-We encourage you to sign up and join the event ahead of time! It helps us
-get a better understanding of how many people to expect.
+For more information on game jams, check out our [About Jams page](https://www.lamejam.com/aboutJams.html). 
 
 # What is LameJam?
 
@@ -73,10 +71,10 @@ Whether this is your first game jam, or just your latest, we want to provide a
 fun and safe environment for everybody to enjoy. Meet the local game dev
 community, learn something new, and have fun making games.
 
+Check out more about Lame Jam at our [About page](https://www.lamejam.com/about.html).
+
 # How do I Join or Help Out?
 
-If you would like to sign up for Lame Jam and/or get email updates as the event
-gets closer, [sign up here!](https://forms.gle/WHWp9KPvwWpAd9V48) Detailed schedules, locations, and speaker
-lists will be announced as the date approaches.
+The best way to get started is to [Join our Discord](https://discord.gg/G9NpzbS) and [join the jam on Itch.io](https://itch.io/jam/lamejam-2021)!
 
-During LameJam, mentors will be available on the Discord server to help jammers with a variety of disciplines. If you have experience with making games and would like to help out by mentoring, [sign up here!](https://forms.gle/fnAADqycWzNRkHVb6)
+During LameJam, mentors will be available on the Discord server to help jammers with a variety of disciplines. If you have experience with making games and would like to help out by mentoring, [sign up here!](https://forms.gle/fnAADqycWzNRkHVb6) You can also shoot us a direct message on Discord and we'll get in touch.
