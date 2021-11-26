@@ -11,6 +11,8 @@ order: 0
 
 We will be trying to make all slides available right after talks! We invite everyone to discuss talks on the Discord.
 
+**Have feedback for a talk?** We want to hear it! Fill out our talk feedback form [here](https://forms.gle/fdBTyqxnHAHqgDH66).
+
 ## Keynote: Creativity and Your First Jam
 
 **When:** November 26th 2021, 6:00PM
