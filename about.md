@@ -11,7 +11,7 @@ order: 0
 
 - **Theme:** Announced Friday, November 26th
 - **Submissions:** On [Itch.io (Account Required)](https://itch.io/jam/lamejam-2021) Sunday, November 28th
-- **Optional Constraints:** Coming soon...
+- **Optional Constraints:** See Below
 - **Discord:** [https://discord.gg/G9NpzbS](https://discord.gg/G9NpzbS)
 - **Itch.io Page:** [https://itch.io/jam/lamejam-2021](https://itch.io/jam/lamejam-2021)
 
