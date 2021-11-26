@@ -16,7 +16,39 @@ order: 0
 - **Itch.io Page:** [https://itch.io/jam/lamejam-2021](https://itch.io/jam/lamejam-2021)
 
 ### Schedule
-The event will begin Friday evening with a theme announcement and opening talks, with submissions and final playtesting wrapped up Sunday afternoon. Game Engine workshops will take place before the Friday theme announcement. Full schedule posted soon. Sign up for our [Mailing List](https://forms.gle/WHWp9KPvwWpAd9V48) for updates!
+
+| Name                                    | Type     | Time                                | Speaker                        |
+| --------------------------------------- | -------- | ----------------------------------- | ------------------------------ |
+| Godot Game Engine Workshop              | Workshop | November 26, 2021 5:00 PM-6:00 PM   | Forest Anderson                |
+| Opening Keynote                         | Jam      | November 26, 2021 6:00 PM-6:45 PM   | Forest, Connor                 |
+| Jam Skills: Quick, Iterative Prototypes | Talk     | November 26, 2021 8:00 PM-8:30 PM   | Connor Hillen                  |
+| Day 1 Ends                              | Jam      | November 26, 2021 10:00 PM          |                                |
+| Day 2 Starts                            | Jam      | November 27, 2021 8:00 AM           |                                |
+| Open Source Game Development            | Fun Time | November 27, 2021 9:00 AM-9:45 AM   | Forest Anderson                |
+| Production Skills for Game Jams         | Talk     | November 27, 2021 10:00 AM-10:30 AM | Connor Hillen                  |
+| Retro Repair Stream                     | Fun Time | November 27, 2021 11:00 AM-1:00 PM  | BITSoc                         |
+| Exporting and Publishing Godot Games    | Workshop | November 27, 2021 7:30 PM-8:00 PM   | Forest Anderson                |
+| Playtest Session!                       | Fun Time | November 27, 2021 8:00 PM           |                                |
+| Day 2 Ends                              | Jam      | November 27, 2021 10:00 PM          |                                |
+| Day 3 Start                             | Jam      | November 28, 2021 8:00 AM           |                                |
+| Submission Period!                      | Jam      | November 28, 2021 3:00 PM-4:00 PM   |                                |
+| Local Industry Panel                    | Talk     | November 28, 2021 4:30 PM-5:00 PM   | SkyPyre Studios, TBD           |
+| Closing Statements, Playtest Call       | Fun Time | November 28, 2021 5:30 PM           | Forest Anderson, Connor Hillen |
+
+## Optional Constraints
+Your team may choose to follow these constraints! Consider them helpful tools to spark ideas, limit scope, or an extra challenge.
+
+| Category    | Name               | Description                                                     |
+| ----------- | ------------------ | --------------------------------------------------------------- |
+| Visuals     | 🔥Nitro Boost😎    | The only sprites in your game are emoji.                        |
+| Visuals     | Palette 404        | Your game has at most 4 distinct colours.                       |
+| Visuals     | Personification    | At least 3 assets come from pictures taken during the jam.      |
+| Development | Data Scientist     | Your entire game is playable in a spreadsheet.                  |
+| Development | Web 3.0            | Your game looks like a normal website, but looks are deceiving. |
+| Sound       | Bleep Box          | All sounds were made by the team recording themselves.          |
+| Sound       | Recycle            | All sound effects are modifications of the same starting sound. |
+| Gameplay    | 30 Seconds or Less | Your game is played in at most 30 second sessions.              |
+| Gameplay    | Four Buttons       | Your game can be played with at most four inputs.               |
 
 ## The Team, The Goals
 LameJam is coordinated by a small group of volunteers from Ottawa, made up of of games enthusiasts, students, developers, instructors, and jammers. Our first event in 2018 was run with the assistance of the Carleton University School of Computer Science and the Carleton Computer Science Society, and is now being operated online for all to access!
