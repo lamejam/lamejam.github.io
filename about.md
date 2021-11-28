@@ -9,7 +9,7 @@ order: 0
 
 ## Overview
 
-- **Theme:** Announced Friday, November 26th
+- **Theme:** **Capture** \| [Reveal Video](https://www.youtube.com/watch?v=9rFV7a3wUoo)
 - **Submissions:** On [Itch.io (Account Required)](https://itch.io/jam/lamejam-2021) Sunday, November 28th
 - **Optional Constraints:** See Below
 - **Discord:** [https://discord.gg/G9NpzbS](https://discord.gg/G9NpzbS)
