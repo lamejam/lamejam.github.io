@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Slides
-tagline: Check out slides from our talks
+title: Talk Recordings and Slides
+tagline: Check out talk recordings and slides held at previous LameJam events!
 permalink: /slides.html
 ref: slides
 order: 0
 ---
 
-# Talk Slides
+# LameJam 2021 Talks and Slides
 
-We will be trying to make all slides available right after talks! We invite everyone to discuss talks on the Discord.
+We had an oustanding year at LameJam 2021! Below you'll find all of the talks we gave on game jam skills as well as our theme reveal and the closing industry panel.
 
 **Have feedback for a talk?** We want to hear it! Fill out our talk feedback form [here](https://forms.gle/fdBTyqxnHAHqgDH66).
+
+[* **Theme Reveal Video**](https://www.youtube.com/watch?v=9rFV7a3wUoo)
 
 ## Keynote: Creativity and Your First Jam
 
@@ -42,3 +44,13 @@ starting small and improving your design over time.
 In this talk, Connor will be going over some concepts of Agile project management, how they apply to games, and specifically 
 how you can make use of these tools to have a smoother game jam experience. We'll go over how to break down your game, 
 prioritize it, and the importance of strong communication.
+
+## Industry Panel and Closing Thoughts
+
+**When:** November 28th 2021, 4:30PM
+
+[Recording](https://www.youtube.com/watch?v=LMWJlxk5wIU)
+
+In this panel, we meet up with [Mike Keogh](https://twitter.com/MikeOKeogh) of [SnowedIn Studios](https://twitter.com/snowedinstudios) and [Team Breakfall](https://twitter.com/TeamBreakfall), and both [Mathieu O'Brien](https://twitter.com/mathieucobrien) and [Nick Burns](https://twitter.com/NickBurnsCo) of [SkyPyre Studios](https://twitter.com/SkyPyre) to chat about their experience starting up in the industry, game jams, and the local Ottawa industry.
+
+Following the panel, we close out by offering some final advice for continuing in game jams and checking out some of the entries!
