@@ -19,9 +19,9 @@ anyone participating, regardless of the following:
 - Gender, gender identity, or sexual orientation
 - Age, disability, or physical appearance
 - Race, ethnicity, nationality, religion, or political views
-- Previous experience, or previous attendence
+- Previous experience, or previous attendance
 
-The LameJam has a zero-tolerence harassment policy at any of the jam venues.
+The LameJam has a zero-tolerance harassment policy at any of the jam venues.
 This includes:
 
 - Working with others
@@ -34,7 +34,7 @@ all related venues.
 
 ## Enforcment
 
-At any point, if you experience or see any form of abusive, harrasing, or
+At any point, if you experience or see any form of abusive, harassing, or
 otherwise unacceptable behavior, there are several channels for you to reach out
 to organizers.
 
@@ -42,19 +42,19 @@ to organizers.
 2. Send a direct email to Forest, the head of the LameJam moderation team at
    `forestkzanderson@gmail.com`
 
-All cases will be taken seriously and dealt with immediatly. The privacy and
+All cases will be taken seriously and dealt with immediately. The privacy and
 security of the reporter of the incident will be respected.
 
 ## Attribution
 
-The LameJam Code of Conduct is apapted from the [Hack Code of
+The LameJam Code of Conduct is adapted from the [Hack Code of
 Conduct](https://hackcodeofconduct.org/) and the [Contributor
 Covenant](https://www.contributor-covenant.org/).
 
 # Getting help with a violation or incident, the TLDR:
 
-If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an
-interaction related with the LameJam in any capacity, get in contact with the
+If for any reason, you feel unsafe, unwelcome, or uncomfortable as a result of
+an interaction related with the LameJam in any capacity, get in contact with the
 LameJam moderation team in either of the following ways:
 
 1. Contact any @Organizer on the LameJam Discord server by direct message
