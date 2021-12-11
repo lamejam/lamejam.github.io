@@ -32,7 +32,7 @@ This includes:
 Any form of harassment will result in immediate expulsion from the LameJam and
 all related venues.
 
-## Enforcment
+## Enforcement
 
 At any point, if you experience or see any form of abusive, harassing, or
 otherwise unacceptable behavior, there are several channels for you to reach out
